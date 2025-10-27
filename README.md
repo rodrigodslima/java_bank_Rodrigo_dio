@@ -1,6 +1,5 @@
 💰 Java Bank
 
-Sistema de Gerenciamento Bancário em Linha de Comando
 O Java Bank é uma aplicação desenvolvida em Java para controle de transações financeiras via terminal.
 Criado como parte do bootcamp "Primeiros Passos com Java" da Digital Innovation One (DIO), o projeto tem como objetivo aplicar conceitos de Programação Orientada a Objetos (POO), tratamento de exceções e boas práticas de desenvolvimento.
 
