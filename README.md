@@ -58,8 +58,7 @@ Ao rodar o programa, um menu interativo é exibido, permitindo:
 -Basta digitar o número da opção desejada e seguir as instruções.
 
 🧰 TECNOLOGIAS UTILIZADAS
-
-Tecnologia	                            
+                          
 Java 21	                        
 Gradle (Kotlin DSL)           
 Lombok                            
