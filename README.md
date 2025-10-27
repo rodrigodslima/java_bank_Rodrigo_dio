@@ -1,12 +1,11 @@
-
-# 💰 DIO Bank
+💰 DIO Bank
 
 Sistema de Gerenciamento Bancário em Linha de Comando
 O DIO Bank é uma aplicação desenvolvida em Java para controle de transações financeiras via terminal.
 Criado como parte do bootcamp "Primeiros Passos com Java" da Digital Innovation One (DIO), o projeto tem como objetivo aplicar conceitos de Programação Orientada a Objetos (POO), tratamento de exceções e boas práticas de desenvolvimento.
 
 
-🚀 Funcionalidades
+🚀 FUNCIONALIDADES
 
 
 🏦 Criação e gerenciamento de contas bancárias
@@ -20,45 +19,54 @@ Criado como parte do bootcamp "Primeiros Passos com Java" da Digital Innovation 
 📜 Histórico completo de transações
 
 
-🧠 Conceitos Aplicados
+🧠 CONCEITOS APLICADOS
 
-O projeto foi construído com foco em:
+
+-O projeto foi construído com foco em:
 
 -Encapsulamento, herança e polimorfismo
+
 -Tratamento de exceções personalizadas
+
 -Organização modular de classes e serviços
+
 -Boas práticas de clean code
 
 
-⚙️ Como Executar
+⚙️ COMO EXECUTAR
 
 Pré-requisitos
+
 Certifique-se de ter instalado:
 Java JDK 21+
 Gradle
 
 
-💻 Interação no Terminal
+💻 INTERAÇÃO NO TERMINAL 
 
 
 Ao rodar o programa, um menu interativo é exibido, permitindo:
 
 -Criar contas novas
+
 -Realizar transferências e saques
+
 -Consultar saldo e histórico
+
 -Investir e simular rendimentos
+
 -Basta digitar o número da opção desejada e seguir as instruções.
 
-🧰 Tecnologias Utilizadas
+🧰 TECNOLOGIAS UTILIZADAS
 
-Tecnologia	                            Função
-Java 21	                         Linguagem principal
-Gradle (Kotlin DSL)           Gerenciamento de build e dependências
-Lombok                            Redução de código repetitivo (getters/setters)
-JUnit 5	                             Testes unitários
-Nix-shell	                          Ambiente de desenvolvimento isolado
+Tecnologia	                            
+Java 21	                        
+Gradle (Kotlin DSL)           
+Lombok                            
+JUnit 5	                            
+Nix-shell	                        
 
-🌟 Objetivo Educacional
+🌟 OBJETIVO EDUCACIONAL 
 
 Este projeto foi desenvolvido como exercício prático para reforçar:
 
