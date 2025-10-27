@@ -1,4 +1,4 @@
-💰 DIO Bank
+💰 Java Bank
 
 Sistema de Gerenciamento Bancário em Linha de Comando
 O DIO Bank é uma aplicação desenvolvida em Java para controle de transações financeiras via terminal.
